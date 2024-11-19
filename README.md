@@ -1,2 +1,3 @@
 # java_script-project
-Tetris-Game
+##Tetris-Game
+by Gili & Neomi_Paulina
